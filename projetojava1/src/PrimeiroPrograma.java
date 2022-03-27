@@ -6,6 +6,7 @@ public class PrimeiroPrograma {
       System.out.println("teste de código");
       System.out.println("Após implementar GitHub");
       System.out.println("Teste");
+      System.out.println("outro teste");
 	}
 
 }
